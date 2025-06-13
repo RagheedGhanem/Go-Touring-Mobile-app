@@ -9,6 +9,6 @@ Whether you're a globetrotter or a casual explorer, Travel Journal helps you che
 
 ### Here are some screenshots of the application's design:
 
-<img src="https://github.com/user-attachments/assets/2231114f-dd26-481f-99a7-811c9c92bbfd" width="300">
-<img src="https://github.com/user-attachments/assets/1ac48022-953e-4359-a024-3398021885d3" width="300">
-<img src="https://github.com/user-attachments/assets/772f56e3-5798-4504-94db-b09e68a158f6" width="300">
+<img src="https://github.com/user-attachments/assets/2231114f-dd26-481f-99a7-811c9c92bbfd" width="200">
+<img src="https://github.com/user-attachments/assets/1ac48022-953e-4359-a024-3398021885d3" width="200">
+<img src="https://github.com/user-attachments/assets/772f56e3-5798-4504-94db-b09e68a158f6" width="200">
